@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c12b0d0-be54-4300-a587-b164c822ea60" name="Default Changelist" comment="" />
+    <list default="true" id="9c12b0d0-be54-4300-a587-b164c822ea60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodenamesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Gameplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/words" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackweek_codenames.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hackweek_codenames.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackweek_codenames/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +26,25 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1ee7lGxOlCDJarD4gyD2ndggWYQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -20,16 +54,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+    <configuration name="CodenamesApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodenamesApplication" />
       <module name="hackweek_codenames" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -37,7 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.CodenamesApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -51,10 +91,117 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594670353169</updated>
+      <workItem from="1594670354414" duration="63551000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="299" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595135319241">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state x="299" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.962@0.23.1680.962" timestamp="1595135319241" />
+    <state x="543" y="314" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594956330273">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state x="543" y="314" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.962@0.23.1680.962" timestamp="1594956330273" />
+    <state x="519" y="194" key="#com.intellij.ide.util.MemberChooser" timestamp="1595103615785">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state x="519" y="194" key="#com.intellij.ide.util.MemberChooser/0.23.1680.962@0.23.1680.962" timestamp="1595103615785" />
+    <state x="921" y="200" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1595143533839">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state x="921" y="200" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.962@0.23.1680.962" timestamp="1595143533839" />
+    <state x="843" y="385" width="837" height="599" key="#xdebugger.evaluate" timestamp="1595208791299">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state x="843" y="385" width="837" height="599" key="#xdebugger.evaluate/0.23.1680.962@0.23.1680.962" timestamp="1595208791299" />
+    <state width="1638" height="323" key="GridCell.Tab.0.bottom" timestamp="1595209128949">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1638" height="323" key="GridCell.Tab.0.bottom/0.23.1680.962@0.23.1680.962" timestamp="1595209128949" />
+    <state width="1638" height="323" key="GridCell.Tab.0.center" timestamp="1595209128948">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1638" height="323" key="GridCell.Tab.0.center/0.23.1680.962@0.23.1680.962" timestamp="1595209128948" />
+    <state width="1638" height="323" key="GridCell.Tab.0.left" timestamp="1595209128948">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1638" height="323" key="GridCell.Tab.0.left/0.23.1680.962@0.23.1680.962" timestamp="1595209128948" />
+    <state width="1638" height="323" key="GridCell.Tab.0.right" timestamp="1595209128949">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1638" height="323" key="GridCell.Tab.0.right/0.23.1680.962@0.23.1680.962" timestamp="1595209128949" />
+    <state width="1638" height="323" key="GridCell.Tab.1.bottom" timestamp="1595209128950">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1638" height="323" key="GridCell.Tab.1.bottom/0.23.1680.962@0.23.1680.962" timestamp="1595209128950" />
+    <state width="1638" height="323" key="GridCell.Tab.1.center" timestamp="1595209128949">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1638" height="323" key="GridCell.Tab.1.center/0.23.1680.962@0.23.1680.962" timestamp="1595209128949" />
+    <state width="1638" height="323" key="GridCell.Tab.1.left" timestamp="1595209128949">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1638" height="323" key="GridCell.Tab.1.left/0.23.1680.962@0.23.1680.962" timestamp="1595209128949" />
+    <state width="1638" height="323" key="GridCell.Tab.1.right" timestamp="1595209128950">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1638" height="323" key="GridCell.Tab.1.right/0.23.1680.962@0.23.1680.962" timestamp="1595209128950" />
+    <state x="756" y="166" key="Maven.ArtifactSearchDialog" timestamp="1595143774495">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state x="756" y="166" key="Maven.ArtifactSearchDialog/0.23.1680.962@0.23.1680.962" timestamp="1595143774495" />
+    <state x="656" y="85" key="SettingsEditor" timestamp="1595181274591">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state x="656" y="85" key="SettingsEditor/0.23.1680.962@0.23.1680.962" timestamp="1595181274591" />
+    <state x="1158" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595137040238">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state x="1158" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.962@0.23.1680.962" timestamp="1595137040238" />
+    <state x="238" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1595208463897">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state x="238" y="234" width="670" height="676" key="search.everywhere.popup/0.23.1680.962@0.23.1680.962" timestamp="1595208463897" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CodenamesApplication.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Gameplay.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Gameplay.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Gameplay.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Gameplay.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Gameplay.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
